@@ -1,6 +1,6 @@
 # slight
 
-This package does amazing things.
+A data management service to define and create data products declaratively. 
 
 ## Installation
 
