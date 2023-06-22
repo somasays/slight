@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/package.yml/badge.svg)
+![example workflow](https://github.com/somasays/slight/actions/workflows/package.yml/badge.svg)
 
 # slight
 
